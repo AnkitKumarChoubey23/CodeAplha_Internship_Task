@@ -34,21 +34,21 @@ This project explores the classic Iris flower dataset using Python, developed du
 - Feature correlation heatmap
 - Inference on class distinctions via petal/sepal analysis
 
-## 🖼️ Output Previews
+## 📊 Iris Dataset Visualizations
 
-### Iris Feature Distribution
+### 🌸 Iris Feature Distribution  
 ![Feature Distribution](Screenshots/Iris_Feature_Distribution.png)
 
-### Sepal Length Distribution
+### 🌿 Sepal Length Distribution  
 ![Sepal Length](Screenshots/Sepal_Length.png)
 
-### Sepal Width Distribution
+### 🍃 Sepal Width Distribution  
 ![Sepal Width](Screenshots/Sepal_Width.png)
 
-### Petal Length Distribution
+### 🌺 Petal Length Distribution  
 ![Petal Length](Screenshots/Petal_length.png)
 
-### Feature Correlation Heatmap
+### 🔥 Feature Correlation Heatmap  
 ![Heatmap](Screenshots/Feature_corelation_heatmap.png)
 
 ## 🧠 Insights
