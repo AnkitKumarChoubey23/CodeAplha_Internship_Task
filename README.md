@@ -37,7 +37,7 @@ This project explores the classic Iris flower dataset using Python, developed du
 ## 📊 Iris Dataset Visualizations
 
 ### 🌸 Iris Feature Distribution  
-![Feature Distribution](CodeAlpha_Iris_flower Classification_Ankit_Kumar/Screenshots/Feature_corelation_ heatmap.png)
+CodeAlpha_Iris_flower Classification_Ankit_Kumar/Screenshots/Feature_corelation_ heatmap.png
 
 ### 🌿 Sepal Length Distribution  
 ![Sepal Length](Screenshots/Sepal_Length.png)
